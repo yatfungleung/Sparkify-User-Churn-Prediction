@@ -8,4 +8,9 @@ This is a personal project I worked on in 2021.
 <br />
 
 ## Project Objective
+Demonstrating data analysis and machine learning modeling of Apache Spark using Python API.
+
+<br />
+
+## Deployment
 
