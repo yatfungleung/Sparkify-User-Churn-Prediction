@@ -3,7 +3,7 @@
 # Sparkify-User-Churn-Prediction
 This is a personal project I worked on in 2021.
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [In Progress]
 
 <br />
 
